@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34946901/README.md)
+
 # Hi, I'm Matheus Cruz 👋
 
 **SQL Server Database Administrator | Performance Tuning | Database Operations**
